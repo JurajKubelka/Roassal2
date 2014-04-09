@@ -1,0 +1,20 @@
+{
+	"class" : {
+		"move:above:" : "AlexandreBergel 1/8/2014 17:41",
+		"move:below:" : "AlexandreBergel 1/8/2014 17:56",
+		"move:between:and:" : "AlexandreBergel 1/30/2014 15:16",
+		"move:onTheCenterOf:" : "RicardoJacas 1/22/2014 10:12",
+		"move:onTheLeftOf:" : "RicardoJacas 1/22/2014 15:41",
+		"move:onTheRightOf:" : "RicardoJacas 1/22/2014 15:41",
+		"moveAtTheBottomOfTheWindow:" : "AlexandreBergel 1/17/2014 10:55",
+		"moveCameraToTheRightIn:" : "AlexandreBergel 1/8/2014 17:33",
+		"stick:above:" : "AlexandreBergel 1/8/2014 17:55",
+		"stick:below:" : "AlexandreBergel 1/8/2014 17:58",
+		"stick:between:and:" : "AlexandreBergel 1/30/2014 15:15",
+		"stick:onTheCenterOf:" : "AlexandreBergel 1/8/2014 18:01",
+		"stick:onTheLeftOf:" : "RicardoJacas 1/22/2014 10:22",
+		"stick:onTheRightOf:" : "RicardoJacas 1/22/2014 10:23",
+		"stickAtTheBottomOfTheWindow:" : "JurajKubelka 1/27/2014 10:22",
+		"stickCameraToTheRightIn:" : "JurajKubelka 1/27/2014 10:22" },
+	"instance" : {
+		 } }

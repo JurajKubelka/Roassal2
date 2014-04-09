@@ -1,0 +1,19 @@
+{
+	"category" : "Trachel-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"trachelCanvas",
+		"surface",
+		"eventBeginingDragging",
+		"shapeBeingPointed",
+		"shouldRefresh",
+		"session" ],
+	"name" : "TRMorph",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

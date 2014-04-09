@@ -1,0 +1,16 @@
+{
+	"category" : "Trachel-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"width",
+		"from",
+		"to" ],
+	"name" : "TRLineShape",
+	"pools" : [
+		 ],
+	"super" : "TRShape",
+	"type" : "normal" }

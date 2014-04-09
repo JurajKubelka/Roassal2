@@ -1,0 +1,27 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"accept:" : "RicardoJacas 3/13/2014 10:27",
+		"alphaAngle" : "RicardoJacas 3/13/2014 17:27",
+		"alphaAngle:betaAngle:innerRadius:externalRadius:" : "AlexandreBergel 1/24/2014 18:13",
+		"betaAngle" : "RicardoJacas 3/13/2014 17:27",
+		"bottomRight" : "AlexandreBergel 1/24/2014 18:13",
+		"center" : "SamirSaleh 1/21/2014 11:50",
+		"center:" : "SamirSaleh 1/21/2014 11:51",
+		"computeBottomRight" : "AlexandreBergel 2/10/2014 09:23",
+		"computeHeight" : "AlexandreBergel 2/10/2014 09:53",
+		"computePath" : "AlexandreBergel 2/10/2014 09:49",
+		"computeTopLeft" : "AlexandreBergel 2/10/2014 09:21",
+		"computeWidth" : "SamirSaleh 1/27/2014 10:47",
+		"drawOn:" : "SamirSaleh 1/21/2014 10:31",
+		"drawStrokeIfNecessaryOn:" : "SamirSaleh 1/20/2014 17:22",
+		"encompassingRectangle" : "SamirSaleh 1/24/2014 14:46",
+		"externalRadius" : "RicardoJacas 3/13/2014 17:28",
+		"height" : "AlexandreBergel 1/24/2014 18:13",
+		"includesPoint:" : "AlexandreBergel 2/10/2014 09:24",
+		"initialize" : "AlexandreBergel 1/24/2014 18:14",
+		"innerRadius" : "RicardoJacas 3/13/2014 17:28",
+		"position" : "SamirSaleh 1/27/2014 09:41",
+		"topLeft" : "AlexandreBergel 1/24/2014 18:14",
+		"width" : "AlexandreBergel 1/24/2014 18:14" } }

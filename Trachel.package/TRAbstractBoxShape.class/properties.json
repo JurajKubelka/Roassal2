@@ -1,0 +1,14 @@
+{
+	"category" : "Trachel-Core",
+	"classinstvars" : [
+		"nullRectangle" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"rectangle" ],
+	"name" : "TRAbstractBoxShape",
+	"pools" : [
+		 ],
+	"super" : "TRShape",
+	"type" : "normal" }

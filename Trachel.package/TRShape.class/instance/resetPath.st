@@ -1,0 +1,3 @@
+actions
+resetPath
+	path := nil

@@ -1,0 +1,10 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testChangingColorOfAComposite" : "AlexandreBergel 4/6/2014 21:16",
+		"testExtendingAComposite" : "AlexandreBergel 4/1/2014 11:07",
+		"testHasCallback" : "AlexandreBergel 3/7/2014 11:44",
+		"testPosition" : "AlexandreBergel 1/28/2014 17:36",
+		"testPositionDefault" : "AlexandreBergel 1/28/2014 17:39",
+		"testPositionWithFloats" : "AlexandreBergel 1/28/2014 17:37" } }

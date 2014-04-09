@@ -1,0 +1,15 @@
+{
+	"category" : "Trachel-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"width",
+		"listOfPoints" ],
+	"name" : "TRBezierShape",
+	"pools" : [
+		 ],
+	"super" : "TRShape",
+	"type" : "normal" }

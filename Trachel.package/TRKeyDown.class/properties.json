@@ -1,0 +1,14 @@
+{
+	"category" : "Trachel-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"keyValue" ],
+	"name" : "TRKeyDown",
+	"pools" : [
+		 ],
+	"super" : "TRShapeEvent",
+	"type" : "normal" }

@@ -1,0 +1,23 @@
+{
+	"category" : "Trachel-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "SamirSaleh 1/27/2014 09:31",
+	"instvars" : [
+		"alphaAngle",
+		"betaAngle",
+		"innerRadius",
+		"externalRadius",
+		"center",
+		"origin",
+		"height",
+		"width",
+		"topLeft",
+		"bottomRight" ],
+	"name" : "TRArcShape",
+	"pools" : [
+		 ],
+	"super" : "TRShape",
+	"type" : "normal" }

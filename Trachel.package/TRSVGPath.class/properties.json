@@ -1,0 +1,23 @@
+{
+	"category" : "Trachel-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"borderWidth",
+		"fillColor",
+		"scale",
+		"paths",
+		"pathPoints",
+		"points",
+		"curves",
+		"rotationAngle",
+		"rectangle",
+		"pathStr" ],
+	"name" : "TRSVGPath",
+	"pools" : [
+		 ],
+	"super" : "TRShape",
+	"type" : "normal" }

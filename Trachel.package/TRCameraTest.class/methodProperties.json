@@ -1,0 +1,9 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "AlexandreBergel 12/29/2013 13:21",
+		"testConversion" : "AlexandreBergel 12/29/2013 13:29",
+		"testFocusingCenter" : "AlexandreBergel 12/29/2013 13:21",
+		"testInitialization" : "AlexandreBergel 12/29/2013 11:39",
+		"testTranslation" : "AlexandreBergel 12/29/2013 11:40" } }

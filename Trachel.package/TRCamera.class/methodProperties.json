@@ -1,0 +1,19 @@
+{
+	"class" : {
+		"forCanvas:" : "AlexandreBergel 12/29/2013 12:54",
+		"new" : "AlexandreBergel 12/29/2013 12:54" },
+	"instance" : {
+		"canvas" : "AlexandreBergel 12/29/2013 12:56",
+		"canvas:" : "AlexandreBergel 12/29/2013 12:57",
+		"distanceFromPixelToSpace:" : "AlexandreBergel 4/4/2014 14:07",
+		"encompassingRectangle" : "AlexandreBergel 12/29/2013 13:05",
+		"encompassingRectangleOf:" : "AlexandreBergel 12/29/2013 13:03",
+		"focusOnCenter" : "AlexandreBergel 12/29/2013 13:07",
+		"fromPixelToSpace:" : "AlexandreBergel 3/31/2014 16:10",
+		"fromSpaceToPixel:" : "AlexandreBergel 3/31/2014 16:12",
+		"initialize" : "AlexandreBergel 1/8/2014 18:17",
+		"position" : "AlexandreBergel 12/29/2013 11:37",
+		"scale" : "AlexandreBergel 1/8/2014 18:20",
+		"scale:" : "AlexandreBergel 1/8/2014 18:20",
+		"translateBy:" : "AlexandreBergel 12/29/2013 11:38",
+		"translateTo:" : "AlexandreBergel 12/29/2013 11:38" } }

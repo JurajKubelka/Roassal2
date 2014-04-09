@@ -1,0 +1,21 @@
+{
+	"category" : "Trachel-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"canvas",
+		"color",
+		"path",
+		"strokePaint",
+		"announcer",
+		"element",
+		"callbacks",
+		"position" ],
+	"name" : "TRShape",
+	"pools" : [
+		 ],
+	"super" : "TRObject",
+	"type" : "normal" }
